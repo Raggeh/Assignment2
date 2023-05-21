@@ -17,7 +17,7 @@ function Buld() {
       <p>
         <img src={toggle ? lighton : lightoff} alt="" />
       </p>
-      <button onClick={toggleButton}>{toggle ? "on" : "off"}</button>
+      <button onClick={toggleButton}>{toggle ? "off" : "on"}</button>
     </div>
   );
 }
