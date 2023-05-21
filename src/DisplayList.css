@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.displayList__wrapper{
+    
+     margin:  auto 45% ;
+  width: 400px;
+  justify-content: center;
+  align-items: center;
+  margin-top: 50px;
+}
